@@ -25,7 +25,7 @@ int main(void)
 	return 0;
 }
 
-long fact(int n) // Ê¹ÓÃÑ­»·µÄº¯Êý
+long fact(int n) // ä½¿ç”¨å¾ªçŽ¯çš„å‡½æ•°
 {
 	long ans;
 	
@@ -35,7 +35,7 @@ long fact(int n) // Ê¹ÓÃÑ­»·µÄº¯Êý
 	return ans;
 } 
 
-long rfact(int n) // Ê¹ÓÃµÝ¹éµÄº¯Êý 
+long rfact(int n) // ä½¿ç”¨é€’å½’çš„å‡½æ•°
 {
 	long ans;
 	
